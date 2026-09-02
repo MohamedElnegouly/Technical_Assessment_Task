@@ -1,6 +1,6 @@
 # Task Manager — Flutter Mobile App
 
-A Flutter Task Manager app built for the Electro Pi Flutter Mobile Developer technical assessment. The app integrates with a small custom REST API (Node.js/Express) for authentication, projects, and tasks.
+A Flutter app integrates with a small custom REST API (Node.js/Express) for authentication, projects, and tasks.
 
 ## Project Description
 
